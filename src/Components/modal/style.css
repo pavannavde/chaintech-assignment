@@ -1,0 +1,16 @@
+.modal{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(66, 63, 63,0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+}
+.closeModal{
+    display: none;
+}
+.card>h2{
+    color: rgb(228, 197, 62);
+}
